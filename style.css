@@ -1,0 +1,6 @@
+.block {
+    background-image: url("gory.jpg");
+    height: 2000px;
+    background-repeat: repeat-x;
+    background-size: contain;
+}
